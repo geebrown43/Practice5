@@ -12,6 +12,7 @@
 		98565B6621E8590E001655F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98565B6421E8590E001655F9 /* Main.storyboard */; };
 		98565B6821E8590F001655F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98565B6721E8590F001655F9 /* Assets.xcassets */; };
 		98565B6B21E8590F001655F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98565B6921E8590F001655F9 /* LaunchScreen.storyboard */; };
+		98565B7321E85A2A001655F9 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 98565B7221E85A2A001655F9 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		98565B6721E8590F001655F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		98565B6A21E8590F001655F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		98565B6C21E8590F001655F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98565B7221E85A2A001655F9 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				98565B6021E8590E001655F9 /* AppDelegate.swift */,
 				98565B6221E8590E001655F9 /* ViewController.swift */,
 				98565B6421E8590E001655F9 /* Main.storyboard */,
+				98565B7221E85A2A001655F9 /* start.txt */,
 				98565B6721E8590F001655F9 /* Assets.xcassets */,
 				98565B6921E8590F001655F9 /* LaunchScreen.storyboard */,
 				98565B6C21E8590F001655F9 /* Info.plist */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				98565B6B21E8590F001655F9 /* LaunchScreen.storyboard in Resources */,
+				98565B7321E85A2A001655F9 /* start.txt in Resources */,
 				98565B6821E8590F001655F9 /* Assets.xcassets in Resources */,
 				98565B6621E8590E001655F9 /* Main.storyboard in Resources */,
 			);
